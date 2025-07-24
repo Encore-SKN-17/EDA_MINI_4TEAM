@@ -42,8 +42,8 @@
 <p align="center">
  
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Matplotlib-CB3B27?style=for-the-badge&logo=matplotlib&logoColor=white">
   <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/Matplotlib-CB3B27?style=for-the-badge&logo=matplotlib&logoColor=white">
   <img src="https://img.shields.io/badge/Seaborn-C93B3B?style=for-the-badge&logo=seaborn&logoColor=white">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
@@ -54,6 +54,7 @@
 
 # 데이터 전처리 과정
 
+![수행결과 이미지](image/code1.png)
 
 ---
 
@@ -90,10 +91,12 @@
 # 한 줄 회고
 
 이가은 : 
+pandas를 활용한 시계열 전처리와 seaborn 기반의 절기별 시각화를 통해 24절기별 기상 데이터를 비교 분석하였으며, 데이터 분포 정제와 시기별 패턴의 통계적 특징을 도출하는 과정에서 기후 데이터 분석의 흐름과 기법을 체계적으로 익혔다.
 
 이민영 :
 
 조해리 :
+처음에 큰 주제를 정하고 구체화하는 과정에서 고민이 많았지만 흥미로운 주제를 선택했다고 생각한다. 절기별 기온 데이터의 표준편차를 비교해 기후의 불안정성을 분석하고자 했으나 기대했던 차이가 나타나지 않아 당황했고, 이런 결과를 그대로 제시해도 될지 많은 고민이 들었다. 어떤 관점에서 시각화를 해야할지 계속해서 고민하게 된 프로젝트였다.
 
 주수빈 :
 
