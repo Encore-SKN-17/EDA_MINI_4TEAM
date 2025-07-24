@@ -38,7 +38,7 @@
 
 | 데이터 이름                           | 파일 형식 / 수집 방법 | 출처 URL |
 |--------------------------------------|------------------------|----------|
-| 종관기상관측(ASOS) - 자료      | 직접 다운로드 / CSV    | [바로가기].https://data.kma.go.kr/data/grnd/selectAsosRltmList.do?pgmNo=36|
+| 종관기상관측(ASOS) - 자료      |  CSV  / 직접 다운로드  | [바로가기](https://data.kma.go.kr/data/grnd/selectAsosRltmList.do?pgmNo=36) |
 ---
 
 # 기술스택
@@ -69,7 +69,7 @@
  ![수행결과 이미지](image/Prec.png)
 
 5. 절기별 온도 분포의 표준편차 변화
- ![수행결과 이미지](image/stm1.png)
+ ![수행결과 이미지](image/sd.png)
    
 
 ---
