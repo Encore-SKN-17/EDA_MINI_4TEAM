@@ -4,7 +4,7 @@
 
 # 팀소개
 
- ### ✨4조 DataPose✨
+ ### ✨4조 DataForce✨
       
 👥 팀 멤버 (개인 GitHub)
 
