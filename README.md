@@ -14,7 +14,7 @@
 | ----- | ---------------------------------------------- |
 | 이가은 | [@Leegaeune](https://github.com/Leegaeune)    |
 | 이민영 | [@mylee99125](https://github.com/mylee99125) |
-| 조혜리 | [@Haer111](https://github.com/Haer111)     |
+| 조해리 | [@Haer111](https://github.com/Haer111)     |
 | 주수빈 | [@Subin-Ju](https://github.com/Subin-Ju) |
 
 
@@ -47,44 +47,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Matplotlib-CB3B27?style=for-the-badge&logo=matplotlib&logoColor=white">
-  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</p>
-
-
-
----
-
-#  데이터 전처리 과정
-
----
-
-#  독립 변수 간 관계
-
-
-
----
-
-
-#  인사이트 도출
-
-
-
----
-
-
-
----
-
-#  한 줄 회고
-
-이가은 :
-
-이민영 :
-
-조혜리 :
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&log해리 :
 
 주수빈 :
 
